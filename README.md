@@ -2,7 +2,7 @@
 ##This is my first github account 
 ###  My Induction file
 I am learning so many things in this program.the teachers, seniors and lectures are so interactive and helping.the guidance from them help students to make right decisions.
-|Date  |Name|| Description |
+|Date  |Name| Description |
 | ----------- | ----------- |--------|
 |10.07.2024|Induction program |we arrived10'o clock at gurudwara sahib and kirtan and Anand sahib recited there. In auditorium we were very warm welcomed there.|
 | 11.07.2024| D. Arvind Dhingra| Give very motivational speech |
