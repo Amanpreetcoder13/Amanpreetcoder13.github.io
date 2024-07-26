@@ -3,8 +3,8 @@
 ###  My Induction file
 I am learning so many things in this program.the teachers, seniors and lectures are so interactive and helping.the guidance from them help students to make right decisions.
 |Date  |Name|| Description |
-| ----------- | ----------- |
-|10.07.2024||Induction program |we arrived10'o clock at gurudwara sahib and kirtan and Anand sahib recited there. In auditorium we were very warm welcomed there.|
+| ----------- | ----------- |--------|
+|10.07.2024|Induction program |we arrived10'o clock at gurudwara sahib and kirtan and Anand sahib recited there. In auditorium we were very warm welcomed there.|
 | 11.07.2024| D. Arvind Dhingra| Give very motivational speech |
 |11.07.2024|D. parminder singh|tell us about different clubs in the college campus|
 |11.07.2024|D. H.S.Rai|Teach us about gihub|
@@ -15,7 +15,7 @@ I am learning so many things in this program.the teachers, seniors and lectures 
 |15.07.2024|Mr. Sony Goyal|motivate the students and gave life lessons how to achieve our goals|
 |15.07.2024|Mr. Pancham|Tells about body language and automobile club |
 |16.07.2024|English activities | improving our speaking skills and  learn new words|
-|16.07.2024| English activities | teachers gave y some topics to students and then students speaks about topic on the stage|
+|16.07.2024| English activities | teachers gave some topics to students and then students speaks about topic on the stage|
 |17.07.2024| Maths|teach about calcu topic in mathematics |
 |17.07.2024| UHV| Learn different types of human behavior |
 |18.07.2024| Peer Interaction | learn different things about canva|
