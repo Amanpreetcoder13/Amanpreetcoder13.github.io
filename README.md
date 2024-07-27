@@ -27,3 +27,8 @@ I am learning so many things in this program.the teachers, seniors and lectures 
 |19.07.2024| Mentor Interaction| students see the department|
 |22.07.2024| Dr. S.B. Singh and Dr.pushpinder Singh| motivated students |
 |22.07.2024| Causmic club| our seniors tell us about Causmic club and motivate to join the club|
+|24.07.2024|Mr. Gauravdeep singh|give motivational speech |
+|24.07.2024| Lakhveer Singh |information about CML and NPTEL|
+|24.07.2024|Causmic club| Gave more information about Causmic club|
+|25.07.2024| Peer interaction |seniors of GNDE explained us about AI that is artificial intelligence, machine learning and some more information about excel|
+|26.07.2024| Dr. kanwalpreet kaur| tells about meditation and how to increase our healing powers with the help of meditation |
